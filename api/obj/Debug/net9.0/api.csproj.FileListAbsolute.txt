@@ -200,3 +200,4 @@ C:\Users\isaac\OneDrive\Desktop\Work-Folder\finshark\api\obj\Debug\net9.0\refint
 C:\Users\isaac\OneDrive\Desktop\Work-Folder\finshark\api\obj\Debug\net9.0\api.pdb
 C:\Users\isaac\OneDrive\Desktop\Work-Folder\finshark\api\obj\Debug\net9.0\api.genruntimeconfig.cache
 C:\Users\isaac\OneDrive\Desktop\Work-Folder\finshark\api\obj\Debug\net9.0\ref\api.dll
+C:\Users\isaac\OneDrive\Desktop\Work-Folder\finshark\api\obj\Debug\net9.0\api.sourcelink.json
